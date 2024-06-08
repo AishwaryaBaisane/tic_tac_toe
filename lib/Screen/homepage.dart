@@ -121,7 +121,7 @@ class _HomePageState extends State<HomePage> {
                     image: AssetImage(
                       'assets/img/r2.png',
                     ),
-                    height: 100,
+                    height: 90,
                     width: 100,
                   ),
                 ),
